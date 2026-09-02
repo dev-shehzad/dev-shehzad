@@ -3,7 +3,7 @@
 <!-- Header Banner -->
 <div align="center">
   <a href="#top">
-    <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/header.svg" width="100%" alt="M Shehzad Banner" />
+    <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/banner.svg" width="100%" alt="M Shehzad Banner" />
   </a>
 </div>
 
