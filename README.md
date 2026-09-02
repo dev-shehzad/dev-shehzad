@@ -1,78 +1,81 @@
-<!-- Custom Terminal Header (Self-Hosted SVG in repo - zero broken images!) -->
+<a name="top"></a>
+
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/header.svg" width="100%" alt="Header" />
+  <a href="#top">
+    <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/header.svg" width="100%" alt="M Shehzad Banner" />
+  </a>
 </div>
 
 <br/>
 
-### 🧑‍💻 About Me
+### 👋 About Me
 
-```javascript
-const shehzad = {
-  code     : ["JavaScript", "TypeScript", "Python"],
-  technologies : {
-    frontEnd : ["React", "Next.js", "TailwindCSS"],
-    backEnd  : ["Node.js", "Express", "MongoDB", "PostgreSQL"]
-  },
-  currentFocus : "Building high-performance full-stack web applications",
-  philosophy   : "Write clean, readable, and maintainable code ⚡"
-};
-```
+I am a **Full-Stack Software Developer** focused on building fast, accessible, and scalable digital products. My background covers end-to-end web engineering — from designing performant, responsive frontend interfaces with **React** and **Next.js** to architecting robust backend APIs with **Node.js** and **Python / Django**.
 
-- 🔭 Currently building modern web apps with **React & Next.js**
-- 🌱 Exploring cloud architecture & scalable backend services
-- 💬 Ask me about **JavaScript, Frontend Architecture & Full-Stack Dev**
-- ⚡ Fun fact: *Eat, Sleep, Code, Debug, Repeat*
+- 💼 Available for freelance projects, technical consulting, and full-time software engineering roles.
+- 🌐 Explore my portfolio: **[muhammad-shehzad.com](https://muhammad-shehzad.com/)**
+- 📍 Based in Pakistan, collaborating globally.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 What I Do
+
+- **Modern Web Applications:** Crafting pixel-perfect, SEO-friendly, and responsive user interfaces using Next.js, TypeScript, and Tailwind CSS.
+- **Backend Architecture & APIs:** Developing clean RESTful services, database schemas, and microservices with Node.js, Express, and PostgreSQL/MongoDB.
+- **Browser Extensions & Automation:** Building custom Chromium-based extensions and workflow automation tools.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### Frontend & UI
+<a href="#top">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,redux&perline=8" alt="Frontend Technologies" />
+</a>
+
+#### Backend & Database
+<a href="#top">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,prisma,firebase&perline=8" alt="Backend Technologies" />
+</a>
+
+#### Tools & Platforms
+<a href="#top">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,vercel&perline=8" alt="Tools and Platforms" />
+</a>
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <!-- Pure icons without text badges -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgres,docker,git,github,vscode,figma,postman&perline=9" alt="Tech Stack Icons" />
+  <a href="#top">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shehzad&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📬 Get In Touch
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shehzad&theme=dark&hide_border=true&background=0D1117&stroke=6e40c9&ring=00D4FF&fire=a78bfa&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=a78bfa&dates=6e7681" width="70%" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-shehzad&bg_color=0D1117&color=00D4FF&line=6e40c9&point=a78bfa&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
+  <a href="https://muhammad-shehzad.com/">
+    <img src="https://img.shields.io/badge/Portfolio-muhammad--shehzad.com-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  &nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-shehzad&label=Profile+Views&color=00D4FF&style=flat-square" alt="Views" />
+  <a href="#top">
+    <img src="https://komarev.com/ghpvc/?username=dev-shehzad&label=Profile+Views&color=0284c7&style=flat-square" alt="Views" />
+  </a>
 </div>
