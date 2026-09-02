@@ -1,6 +1,6 @@
 <!-- Custom Terminal Header (Self-Hosted SVG in repo - zero broken images!) -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Header" />
+  <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/header.svg" width="100%" alt="Header" />
 </div>
 
 <br/>
