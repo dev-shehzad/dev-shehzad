@@ -46,6 +46,20 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <a href="#top">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Activity
 
 <div align="center">
