@@ -72,6 +72,6 @@
 
 <div align="center">
   <a href="https://github.com/dev-shehzad">
-    <img src="https://profile-counter.glitch.me/dev-shehzad/count.svg" />
+    <img src="https://komarev.com/ghpvc/?username=dev-shehzad&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
   </a>
 </div>
