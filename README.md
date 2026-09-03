@@ -1,7 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <a name="header"></a>
-  <a href="#header">
+  <a>
     <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/banner.svg" width="100%" alt="M Shehzad Banner" />
   </a>
 </div>
@@ -29,20 +28,17 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 ### 🛠️ Technologies & Tools
 
 #### Frontend & UI
-<a name="frontend"></a>
-<a href="#frontend">
+<a>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,redux&perline=8" alt="Frontend Technologies" />
 </a>
 
 #### Backend & Database
-<a name="backend"></a>
-<a href="#backend">
+<a>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,prisma,firebase&perline=8" alt="Backend Technologies" />
 </a>
 
 #### Tools & Platforms
-<a name="tools"></a>
-<a href="#tools">
+<a>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,vercel&perline=8" alt="Tools and Platforms" />
 </a>
 
@@ -51,8 +47,7 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <a name="snake"></a>
-  <a href="#snake">
+  <a>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake.svg">
@@ -66,8 +61,7 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 ### 📊 GitHub Activity
 
 <div align="center">
-  <a name="stats"></a>
-  <a href="#stats">
+  <a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shehzad&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
   </a>
 </div>
@@ -78,35 +72,26 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 
 <div align="center">
   <a href="https://facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/your-instagram-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:devshehzad@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" />
   </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-%23ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://muhammad-shehzad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-%230284c7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/googlechrome/0284c7" width="36" height="36" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a name="views"></a>
-  <a href="#views">
+  <a>
     <img src="https://komarev.com/ghpvc/?username=dev-shehzad&label=Profile+Views&color=0284c7&style=flat-square" alt="Views" />
   </a>
 </div>
