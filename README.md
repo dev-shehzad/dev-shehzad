@@ -73,17 +73,15 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 <table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="120">
-      <a href="https://facebook.com/your-facebook-profile" target="_blank">
+      <a href="https://web.facebook.com/Em.Shehzad" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="45" height="45" alt="Facebook" />
-        <br />
         <br />
         <b>Facebook</b>
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <a href="https://www.linkedin.com/in/dev-shehzad" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45" alt="LinkedIn" />
-        <br />
         <br />
         <b>LinkedIn</b>
       </a>
@@ -92,14 +90,12 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
       <a href="mailto:devshehzad@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Email" />
         <br />
-        <br />
         <b>Email</b>
       </a>
     </td>
     <td align="center" width="120">
       <a href="https://muhammad-shehzad.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/website.svg" width="45" height="45" alt="Website" />
-        <br />
         <br />
         <b>Website</b>
       </a>
