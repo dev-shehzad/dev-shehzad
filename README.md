@@ -107,6 +107,6 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 
 <div align="center">
   <a href="https://github.com/dev-shehzad">
-    <img src="https://komarev.com/ghpvc/?username=dev-shehzad&label=Profile+Views&color=0284c7&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=dev-shehzad&label=Profile+Views&color=0ea5e9&style=plastic" alt="Views" />
   </a>
 </div>
