@@ -73,31 +73,31 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 <table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="120">
-      <a href="https://web.facebook.com/Em.Shehzad" target="_blank">
+      <a href="https://web.facebook.com/Em.Shehzad" target="_blank" style="text-decoration: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="45" height="45" alt="Facebook" />
         <br />
-        <b>Facebook</b>
+        <b style="color: #333;">Facebook</b>
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/dev-shehzad" target="_blank">
+      <a href="https://www.linkedin.com/in/dev-shehzad" target="_blank" style="text-decoration: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45" alt="LinkedIn" />
         <br />
-        <b>LinkedIn</b>
+        <b style="color: #333;">LinkedIn</b>
       </a>
     </td>
     <td align="center" width="120">
-      <a href="mailto:devshehzad@gmail.com" target="_blank">
+      <a href="mailto:devshehzad@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Email" />
         <br />
-        <b>Email</b>
+        <b style="color: #333;">Email</b>
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://muhammad-shehzad.com/" target="_blank">
+      <a href="https://muhammad-shehzad.com/" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/website.svg" width="45" height="45" alt="Website" />
         <br />
-        <b>Website</b>
+        <b style="color: #333;">Website</b>
       </a>
     </td>
   </tr>
