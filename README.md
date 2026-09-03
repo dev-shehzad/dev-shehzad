@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <a>
-    <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/banner.svg" width="100%" alt="M Shehzad Banner" />
-  </a>
+  <svg viewBox="0 0 900 220" width="100%">
+    <image href="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/banner.svg" width="900" height="220" />
+  </svg>
 </div>
 
 <br/>
