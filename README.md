@@ -98,10 +98,10 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
     </td>
     <td align="center" width="120">
       <a href="https://muhammad-shehzad.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="45" height="45" alt="Portfolio" />
+        <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/website.svg" width="45" height="45" alt="Website" />
         <br />
         <br />
-        <b>Portfolio</b>
+        <b>Website</b>
       </a>
     </td>
   </tr>
