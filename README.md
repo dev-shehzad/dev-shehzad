@@ -70,23 +70,42 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 
 ### 📬 Connect With Me
 
-<div align="center">
-  <a href="https://facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:devshehzad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-devshehzad@gmail.com-%23ea4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://muhammad-shehzad.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-muhammad--shehzad.com-%230284c7.svg?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<table align="center" border="0" cellpadding="20">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://facebook.com/your-facebook-profile" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="45" height="45" alt="Facebook" />
+        <br />
+        <br />
+        <b>Facebook</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45" alt="LinkedIn" />
+        <br />
+        <br />
+        <b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:devshehzad@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Email" />
+        <br />
+        <br />
+        <b>Email</b>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://muhammad-shehzad.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="45" height="45" alt="Portfolio" />
+        <br />
+        <br />
+        <b>Portfolio</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
