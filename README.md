@@ -72,19 +72,19 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 
 <div align="center">
   <a href="https://facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" height="36" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:devshehzad@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-devshehzad@gmail.com-%23ea4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://muhammad-shehzad.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/0284c7" width="36" height="36" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-muhammad--shehzad.com-%230284c7.svg?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
