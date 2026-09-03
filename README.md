@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <svg viewBox="0 0 900 220" width="100%">
-    <image href="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/banner.svg" width="900" height="220" />
-  </svg>
+  <a href="https://github.com/dev-shehzad">
+    <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/banner.svg" width="100%" alt="M Shehzad Banner" />
+  </a>
 </div>
 
 <br/>
@@ -28,17 +28,17 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 ### 🛠️ Technologies & Tools
 
 #### Frontend & UI
-<a>
+<a href="https://github.com/dev-shehzad">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,redux&perline=8" alt="Frontend Technologies" />
 </a>
 
 #### Backend & Database
-<a>
+<a href="https://github.com/dev-shehzad">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,postgres,prisma,firebase&perline=8" alt="Backend Technologies" />
 </a>
 
 #### Tools & Platforms
-<a>
+<a href="https://github.com/dev-shehzad">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,vercel&perline=8" alt="Tools and Platforms" />
 </a>
 
@@ -47,7 +47,7 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <a>
+  <a href="https://github.com/dev-shehzad">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/output/github-contribution-grid-snake.svg">
@@ -61,7 +61,7 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 ### 📊 GitHub Activity
 
 <div align="center">
-  <a>
+  <a href="https://github.com/dev-shehzad">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shehzad&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak Stats" />
   </a>
 </div>
@@ -73,31 +73,31 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 <table align="center" border="0" cellpadding="20">
   <tr>
     <td align="center" width="120">
-      <a href="https://web.facebook.com/Em.Shehzad" target="_blank" style="text-decoration: none;">
+      <a href="https://web.facebook.com/Em.Shehzad" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="45" height="45" alt="Facebook" />
         <br />
-        <b style="color: #333;">Facebook</b>
+        <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/text-facebook.svg" alt="Facebook" />
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://www.linkedin.com/in/dev-shehzad" target="_blank" style="text-decoration: none;">
+      <a href="https://www.linkedin.com/in/dev-shehzad" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45" alt="LinkedIn" />
         <br />
-        <b style="color: #333;">LinkedIn</b>
+        <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/text-linkedin.svg" alt="LinkedIn" />
       </a>
     </td>
     <td align="center" width="120">
-      <a href="mailto:devshehzad@gmail.com" target="_blank" style="text-decoration: none;">
+      <a href="mailto:devshehzad@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Email" />
         <br />
-        <b style="color: #333;">Email</b>
+        <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/text-email.svg" alt="Email" />
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://muhammad-shehzad.com/" target="_blank" style="text-decoration: none;">
+      <a href="https://muhammad-shehzad.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/website.svg" width="45" height="45" alt="Website" />
         <br />
-        <b style="color: #333;">Website</b>
+        <img src="https://raw.githubusercontent.com/dev-shehzad/dev-shehzad/main/assets/text-website.svg" alt="Website" />
       </a>
     </td>
   </tr>
@@ -106,7 +106,7 @@ I am a **Full-Stack Software Developer** focused on building fast, accessible, a
 <br/>
 
 <div align="center">
-  <a>
+  <a href="https://github.com/dev-shehzad">
     <img src="https://komarev.com/ghpvc/?username=dev-shehzad&label=Profile+Views&color=0284c7&style=flat-square" alt="Views" />
   </a>
 </div>
